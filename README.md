@@ -3,7 +3,7 @@ GEOG 676 - GIS Prog
 
 |Labs     |
 |:------:|
-|[lab_1] (lab_1/README.md)|
+|[lab_1] (lab1/README.md)|
 |[lab_2] (lab%2/README.md)|
 |[lab_3] (lab_3/README.md)|
 |[lab_4] (lab_4/README.md)|
